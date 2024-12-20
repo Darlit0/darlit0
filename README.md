@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 ## Follow Me
 
 
-[![Gmail Badge](https://img.shields.io/badge/-ing.miller.vega@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:max.grejon@icloud.com)](mailto:max.grejon@icloud.com)
-[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minoveaz/)]([https://www.linkedin.com/in/minoveaz/](https://www.linkedin.com/in/maxime-gr%C3%A9jon-790167335/))
+[![Gmail Badge](https://img.shields.io/badge/-ing.max.grejon@icloud.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:max.grejon@icloud.com)](mailto:max.grejon@icloud.com)
+[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/minoveaz/](https://www.linkedin.com/in/maxime-gr%C3%A9jon-790167335/))]([https://www.linkedin.com/in/minoveaz/](https://www.linkedin.com/in/maxime-gr%C3%A9jon-790167335/))
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/minoveaz)](https://github.com/minoveaz)
-[![Twitter Badge](https://img.shields.io/badge/-@minoveaz-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=minoveaz "Follow on Twitter")
 
 <hr>
 
