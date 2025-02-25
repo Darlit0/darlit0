@@ -10,7 +10,7 @@ Mes Hard Skills :
 
 #### 📫 Comment me suivre ? :
   
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]([https://www.linkedin.com/in/maxime-gr%C3%A9jon-790167335/])
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>https://www.linkedin.com/in/maxime-gr%C3%A9jon-790167335/
   
 
 ## ⚡ Technologies
