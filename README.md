@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 Bonjour, je suis un jeune etudiant developpeur qui débute dans le developpement web et je fais mes études dans l'école Coda.
 
 
