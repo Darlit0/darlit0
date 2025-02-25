@@ -2,7 +2,7 @@ Bonjour, je suis un jeune etudiant developpeur qui débute dans le developpement
 
 
 Mes Hard Skills :
-- Langages : HTML, CSS, JAVA, BootStrap (Débutant)
+- Langages : HTML, CSS, JavaScript, JAVA, BootStrap (Débutant)
 - Outils : Visual Studio Code (Débutant)
 - Base de données : MySQL (Débutant)
 
