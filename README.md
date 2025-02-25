@@ -1,21 +1,17 @@
 ## Hi there 👋
 
 <!--
-**Darlit0/darlit0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bonjour, je suis un jeune etudiant developpeur qui débute dans le developpement web et je fais mes études dans l'école Coda.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mes Hard Skills :
+- Langages : HTML, CSS, JAVA (Débutant)
+- Outils : Visual Studio Code (Débutant)
+- Base de données : MySQL (Débutant)
 
-#### 📫 How to reach me:
+
+
+#### 📫 Comment me suivre ? :
   
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>]([https://www.linkedin.com/in/adityapal1/](https://www.linkedin.com/in/maxime-gr%C3%A9jon-790167335/))  &nbsp; <a href="mailto:max.grejon@icloud.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   
